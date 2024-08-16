@@ -1,4 +1,4 @@
-# Devantler's Roadmap
+# Devantler's Issue Tracker
 
 <details>
   <summary>Show/hide folder structure</summary>
@@ -15,4 +15,4 @@
 
 </details>
 
-This is a repo to contain my roadmap issues.
+This is a repo to contain epic issues that span multiple repos.

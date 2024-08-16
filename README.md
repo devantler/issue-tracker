@@ -1,4 +1,4 @@
-# Devantler's Issue Tracker
+# 🎯 Devantler's Issue Tracker
 
 <details>
   <summary>Show/hide folder structure</summary>
